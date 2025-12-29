@@ -2,4 +2,4 @@ langgenius/dify-api:1.7.2
 langgenius/dify-web:1.7.2
 langgenius/dify-sandbox:0.2.12
 langgenius/dify-plugin-daemon:0.2.0-local
-openjdk:17-jdk-slim
+openjdk:17-slim
